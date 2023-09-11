@@ -1,0 +1,28 @@
+
+    body{
+      background-color: lightblue;
+    }
+    h1{
+      color:red;
+      font-family: monospace;
+    }
+    h3{
+      color:blue;
+    }
+    p{
+      color:green;
+      font-size: 18px;
+    }
+    table{
+        width:100%;
+        border:1px solid red;
+    }
+    td{
+        border:1px solid red;
+    }
+    tr{
+        border:1px solid red;
+    }
+    #food{
+        color:red;
+    }
